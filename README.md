@@ -3,7 +3,10 @@
 
 We present **DeMAG** (**De**ciphering **M**utations in **A**ctionable **G**enes) a supervised and specialized VEP (Variant Effect Predictor) to interpret any missense mutations in 59 actionable genes (ACMG SF v2.0 genes).
 
-This repository will contain the main scripts (all in R language) and data resources to reproduce our analysis. 
+This repository will contain the main scripts (all in R language) and data resources:
+- scripts, the directory will contain R scripts to reproduce the analysis (e.g., feature selection, model training and testing),
+- data, the directory will contain the training set and the validation sets used to benchmark DeMAG.
+
 
 [DeMAG web server](https://demag.org) allows scientistist, clinicians or anyone curios to:
 - access and download predictions for all ~1.3 million missense mutations for the ACMG SF v2.0 genes (ACMG59 genes),
