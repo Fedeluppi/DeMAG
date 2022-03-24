@@ -8,7 +8,7 @@ This repository will contain the main scripts (all in R language) and data resou
 - data, the directory will contain the training set and the validation sets used to benchmark DeMAG.
 
 
-[DeMAG web server](https://demag.org) allows scientistist, clinicians or anyone curios to:
+[DeMAG web server](https://demag.org) allows scientists, health professionals or anyone curious to:
 - access and download predictions for all ~1.3 million missense mutations for the ACMG SF v2.0 genes (ACMG59 genes),
 - investigate the features of the model for any mutation to better understand DeMAG's pathogenicity score,
 - download the high-quality training set to fully reproduce our results,
