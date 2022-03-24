@@ -1,7 +1,7 @@
 # DeMAG <img src="demag_logo.png" width="130">
 
 
-We present **DeMAG** (**De**ciphering **M**utations in **A**ctionable **G**enes) a supervised and specialized VEP (Variant Effect Predictor) to interpret any missense mutations in 59 actionable genes (ACMG SF v2.0 genes[@Kalia2017-nq]).
+We present **DeMAG** (**De**ciphering **M**utations in **A**ctionable **G**enes) a supervised and specialized VEP (Variant Effect Predictor) to interpret any missense mutations in 59 actionable genes (ACMG SF v2.0 genes[[1]](#1)).
 
 This repository will contain the main scripts (all in R language) and data resources:
 - scripts, the directory will contain R scripts to reproduce the analysis (e.g., feature selection, model training and testing),
@@ -23,3 +23,10 @@ DeMAG is a joint collaboration between the Max Planck Insitute of Molecular Cell
 > 3. Cluster of Excellence Physics of Life, TU Dresden, 01062 Dresden, Germany.
 > 4. Brigham and Womenʼs Hospital Division of Genetics, Harvard Medical School, Boston, MA, 02115 USA.
 > 5. Department of Biomedical Informatics, Harvard Medical School, Boston, MA 02115.</sub>
+
+
+#### References
+<a id="1">[1]</a> 
+Kalia, S. S. *et al.* (2017). 
+Recommendations for reporting of secondary findings in clinical exome and genome sequencing, 2016 update (ACMG SF v2.0): a policy statement of the American College of Medical Genetics and Genomics.
+Genet. Med. 19, 249–255
